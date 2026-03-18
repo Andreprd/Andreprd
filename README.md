@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=051e7a&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=6000&pause=1000&color=FFFFFF&background=255BFF00&vCenter=true&width=700&height=60&lines=Entusiasta+por+aprendizado+em+Nuvem%2C+com+foco+em+solu%C3%A7%C3%B5es+escal%C3%A1veis;Cloud+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=6000&pause=1000&color=000000&background=255BFF00&vCenter=true&width=700&height=60&lines=Entusiasta+por+aprendizado+em+Nuvem%2C+com+foco+em+solu%C3%A7%C3%B5es+escal%C3%A1veis;Cloud+%26+DevOps" alt="Typing SVG" />
 </a>
 
 ---
